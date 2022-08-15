@@ -1,6 +1,6 @@
 # Project: RingtoneSystemforClass
 
-*![RSC](.\help\RSC.png)~~作者现绘的简陋图标(误)~~*
+*![RSC](help\RSC.png)~~作者现绘的简陋图标(误)~~*
 
 一个使用 Python 的课堂铃声系统, 将会持续更新.
 
